@@ -1,0 +1,9 @@
+{
+  "dashboardId": 217228,
+  "name": "Energy & Chain On-Chain Pulse",
+  "slug": "energy-chain-on-chain-pulse",
+  "owner": "za_chain",
+  "url": "https://dune.com/za_chain/energy-chain-on-chain-pulse",
+  "fetchedAt": "2026-07-30",
+  "note": "Widget IDs regenerate on updateDashboard. See docs/widget-query-map.md."
+}
