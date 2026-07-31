@@ -34,3 +34,10 @@ Fetched via MCP `getDashboard` on 2026-07-30.
 ## Params
 
 API `paramWidgets` left empty on purpose. Link `date_range` and `blockchain` per query in the Dune UI. `updateDashboard` regenerates widget IDs — re-link after any full layout write.
+
+
+## Mirror link (2026-07-30)
+
+↔ [Energy & Chain Ecosystem Breakdown](https://dune.com/za_chain/energy-chain-ecosystem-breakdown) · ID **217279** · embed `8168881/12161722`
+
+See `docs/linker-notes.md`.
