@@ -1,7 +1,6 @@
 # Energy & Chain On-Chain Pulse
 
-**Live:** [dune.com/za_chain/energy-chain-on-chain-pulse](https://dune.com/za_chain/energy-chain-on-chain-pulse)  
-**Dashboard ID:** `217228` · **Owner:** `za_chain` · **Public**
+**Live:** [dune.com/za_chain/energy-chain-on-chain-pulse](https://dune.com/za_chain/energy-chain-on-chain-pulse)  **Dashboard ID:** `217228`
 
 Unified dashboard tracking tokenized energy commodities, chain gas/transaction stats, and smart wallet flows. Updated daily.
 
