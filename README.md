@@ -102,8 +102,3 @@ Params on every query: `date_range` (7d/30d/90d/All), `blockchain` (ethereum/opt
 | Analyst | Filters + Vault pivot |
 | Beginner | Glossary text + jargon-free titles |
 
----
-
-## License
-
-MIT
